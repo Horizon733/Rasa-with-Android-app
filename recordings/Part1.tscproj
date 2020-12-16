@@ -1,0 +1,2851 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "0.5",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia Studio",
+    "platform" : "Windows",
+    "version" : "9.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "D:\\Dishant\\Documents\\Camtasia Studio\\Rec 12-08-20.trec",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20201208T112500",
+      "sourceTracks" : [
+        {
+          "range" : [0, 81760],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 27,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "metaData" : "Rec 12-08-20.trec;"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "src" : "D:\\Android_chatbot_tutorial\\recordings\\part 1 recording chatbot tut.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20201208T062648",
+      "sourceTracks" : [
+        {
+          "range" : [0, 16086695250],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 3,
+      "src" : "D:\\Android_chatbot_tutorial\\vectors\\Part-01.png",
+      "rect" : [0, 0, 5334, 3000],
+      "lastMod" : "20201208T121509",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 5334, 3000],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "metaData" : ""
+        }
+      ]
+    },
+    {
+      "id" : 4,
+      "src" : "D:\\Android_chatbot_tutorial\\recordings\\Narration_Part1 1.m4a",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20201208T173507",
+      "sourceTracks" : [
+        {
+          "range" : [0, 172292111],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "metaData" : ""
+        }
+      ]
+    }
+  ],
+  "timeline" : {
+    "id" : 5,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 1051.76666666667,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 6,
+                    "_type" : "ScreenVMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-20"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -28.0000000000015,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -30.000000000001,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 61.999999999751,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : -218.00000000027,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 149.999999999786,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 511.999999999327,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 186.857142857187,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -92.000000000005,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -44.0000000000018,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 20.0957142860398,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.35536026846239e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 150.00000000003,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : -540.000000000077,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : -99.9999999999072,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : -333.428571428463,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.79808333333334,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.79808333333334,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "CursorHilight",
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "blur" : 0.1,
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 0.75,
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              },
+                              "keyframes" : [
+                                {
+                                  "time" : 34,
+                                  "value" : 0.15,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 1921,
+                                  "value" : 0.125,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 3127,
+                                  "value" : 0.183333333333333,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 5046,
+                                  "value" : 0.175,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 6708,
+                                  "value" : 0.183333333333333,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 7020,
+                                  "value" : 0.141666666666667,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 7539,
+                                  "value" : 0.108333333333333,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 7702,
+                                  "value" : 0.141666666666667,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 7867,
+                                  "value" : 0.0916666666666666,
+                                  "duration" : 30
+                                }
+                              ]
+                            },
+                            "color-blue" : 0.0,
+                            "color-green" : 1.0,
+                            "color-red" : 1.0,
+                            "radius" : 50.0
+                          }
+                        }
+                    ],
+                    "start" : 0,
+                    "duration" : 8777,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 8777,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-cursor-size" : 1.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "range" : [ 34, 30]
+                        },
+                        {
+                          "range" : [ 1921, 30]
+                        },
+                        {
+                          "range" : [ 3127, 30]
+                        },
+                        {
+                          "range" : [ 5046, 30]
+                        },
+                        {
+                          "range" : [ 6708, 30]
+                        },
+                        {
+                          "range" : [ 7020, 30]
+                        },
+                        {
+                          "range" : [ 7539, 30]
+                        },
+                        {
+                          "range" : [ 7702, 30]
+                        },
+                        {
+                          "range" : [ 7867, 30]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 7,
+                    "_type" : "ScreenVMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-20"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -28.0000000000015,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -30.000000000001,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 61.999999999751,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : -218.00000000027,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 149.999999999786,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 511.999999999327,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 186.857142857187,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : -439.11999999941,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 163.737142857708,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 179.756158266982,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 217.142857142862,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -92.000000000005,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -44.0000000000018,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 20.0957142860398,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.35536026846239e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 150.00000000003,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : -540.000000000077,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : -99.9999999999072,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : -333.428571428463,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : -247.00499999983,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : -272.719285714084,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : -299.400217422394,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : -333.674598214223,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.89271929824562,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : 1.45741666666666,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 1.82177083333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 2.00000025025953,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 2.11088020833333,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.89271929824562,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : 1.45741666666667,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 1.82177083333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 2.00000010240798,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 2.11088020833334,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "CursorHilight",
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "blur" : 0.1,
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 0.75,
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              },
+                              "keyframes" : [
+                                {
+                                  "time" : 18880,
+                                  "value" : 0.166666666666667,
+                                  "duration" : 30
+                                }
+                              ]
+                            },
+                            "color-blue" : 0.0,
+                            "color-green" : 1.0,
+                            "color-red" : 1.0,
+                            "radius" : 50.0
+                          }
+                        }
+                    ],
+                    "start" : 8777,
+                    "duration" : 13705,
+                    "mediaStart" : 10516,
+                    "mediaDuration" : 13705,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-cursor-size" : 1.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "range" : [ 34, 30]
+                        },
+                        {
+                          "range" : [ 1921, 30]
+                        },
+                        {
+                          "range" : [ 3127, 30]
+                        },
+                        {
+                          "range" : [ 5046, 30]
+                        },
+                        {
+                          "range" : [ 6708, 30]
+                        },
+                        {
+                          "range" : [ 7020, 30]
+                        },
+                        {
+                          "range" : [ 7539, 30]
+                        },
+                        {
+                          "range" : [ 7702, 30]
+                        },
+                        {
+                          "range" : [ 7867, 30]
+                        },
+                        {
+                          "range" : [ 11356, 24]
+                        },
+                        {
+                          "range" : [ 11401, 30]
+                        },
+                        {
+                          "range" : [ 17493, 30]
+                        },
+                        {
+                          "range" : [ 18880, 30]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 8,
+                    "_type" : "ScreenVMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-20"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -28.0000000000015,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -30.000000000001,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 61.999999999751,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : -218.00000000027,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 149.999999999786,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 511.999999999327,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 186.857142857187,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : -439.11999999941,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 163.737142857708,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 179.756158266982,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 217.142857142862,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -92.000000000005,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -44.0000000000018,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 20.0957142860398,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.35536026846239e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 150.00000000003,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : -540.000000000077,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : -99.9999999999072,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : -333.428571428463,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : -247.00499999983,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : -272.719285714084,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : -299.400217422394,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : -333.674598214223,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.89271929824562,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : 1.45741666666666,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 1.82177083333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 2.00000025025953,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 2.11088020833333,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.89271929824562,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : 1.45741666666667,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 1.82177083333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 2.00000010240798,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 2.11088020833334,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "CursorHilight",
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "blur" : 0.1,
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 0.75,
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              },
+                              "keyframes" : [
+                                {
+                                  "time" : 18880,
+                                  "value" : 0.241666666666667,
+                                  "duration" : 30
+                                }
+                              ]
+                            },
+                            "color-blue" : 0.0,
+                            "color-green" : 1.0,
+                            "color-red" : 1.0,
+                            "radius" : 50.0
+                          }
+                        }
+                    ],
+                    "start" : 22482,
+                    "duration" : 1270,
+                    "mediaStart" : 24221,
+                    "mediaDuration" : 5080,
+                    "scalar" : "1/4",
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : true,
+                      "default-cursor-size" : 1.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "range" : [ 34, 30]
+                        },
+                        {
+                          "range" : [ 1921, 30]
+                        },
+                        {
+                          "range" : [ 3127, 30]
+                        },
+                        {
+                          "range" : [ 5046, 30]
+                        },
+                        {
+                          "range" : [ 6708, 30]
+                        },
+                        {
+                          "range" : [ 7020, 30]
+                        },
+                        {
+                          "range" : [ 7539, 30]
+                        },
+                        {
+                          "range" : [ 7702, 30]
+                        },
+                        {
+                          "range" : [ 7867, 30]
+                        },
+                        {
+                          "range" : [ 11356, 24]
+                        },
+                        {
+                          "range" : [ 11401, 30]
+                        },
+                        {
+                          "range" : [ 17493, 30]
+                        },
+                        {
+                          "range" : [ 18880, 30]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 9,
+                    "_type" : "ScreenVMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-20"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -28.0000000000015,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -30.000000000001,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 61.999999999751,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : -218.00000000027,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 149.999999999786,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 511.999999999327,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 186.857142857187,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : -439.11999999941,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 163.737142857708,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 179.756158266982,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 9.92486093309708e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 30104,
+                            "value" : 314.285714285847,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -92.000000000005,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -44.0000000000018,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 20.0957142860398,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.35536026846239e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 150.00000000003,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : -540.000000000077,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : -99.9999999999072,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : -333.428571428463,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : -247.00499999983,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : -272.719285714084,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : -299.400217422394,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 5.03064256918151e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 30104,
+                            "value" : -199.999999999946,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.89271929824562,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : 1.45741666666666,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 1.82177083333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 2.00000025025953,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 1.40396354166668,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 30104,
+                            "value" : 2.25395442708336,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.89271929824562,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : 1.45741666666667,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 1.82177083333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 2.00000010240798,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 1.40396354166669,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 30104,
+                            "value" : 2.25395442708337,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "CursorHilight",
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "blur" : 0.1,
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 0.75,
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              },
+                              "keyframes" : [
+                                {
+                                  "time" : 18880,
+                                  "value" : 0.333333333333333,
+                                  "duration" : 30
+                                },
+                                {
+                                  "time" : 30104,
+                                  "value" : 0.75,
+                                  "duration" : 30
+                                }
+                              ]
+                            },
+                            "color-blue" : 0.0,
+                            "color-green" : 1.0,
+                            "color-red" : 1.0,
+                            "radius" : 50.0
+                          }
+                        }
+                    ],
+                    "start" : 23752,
+                    "duration" : 6343,
+                    "mediaStart" : 29301,
+                    "mediaDuration" : 6343,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-cursor-size" : 1.0,
+                      "default-opacity" : 1.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "range" : [ 34, 30]
+                        },
+                        {
+                          "range" : [ 1921, 30]
+                        },
+                        {
+                          "range" : [ 3127, 30]
+                        },
+                        {
+                          "range" : [ 5046, 30]
+                        },
+                        {
+                          "range" : [ 6708, 30]
+                        },
+                        {
+                          "range" : [ 7020, 30]
+                        },
+                        {
+                          "range" : [ 7539, 30]
+                        },
+                        {
+                          "range" : [ 7702, 30]
+                        },
+                        {
+                          "range" : [ 7867, 30]
+                        },
+                        {
+                          "range" : [ 11356, 24]
+                        },
+                        {
+                          "range" : [ 11401, 30]
+                        },
+                        {
+                          "range" : [ 17493, 30]
+                        },
+                        {
+                          "range" : [ 18880, 30]
+                        },
+                        {
+                          "range" : [ 30104, 30]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 10,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-20",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -28.0000000000015,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -30.000000000001,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 61.999999999751,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : -218.00000000027,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 149.999999999786,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 511.999999999327,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 186.857142857187,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : -439.11999999941,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 163.737142857708,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 179.756158266982,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 9.92486093309708e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 30104,
+                            "value" : 314.285714285847,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 37323,
+                            "value" : -9.04378794075456e-11,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : -92.000000000005,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : -44.0000000000018,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 0.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 20.0957142860398,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.35536026846239e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 150.00000000003,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : -540.000000000077,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : -99.9999999999072,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : -333.428571428463,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : -247.00499999983,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : -272.719285714084,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : -299.400217422394,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 5.03064256918151e-11,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 30104,
+                            "value" : -199.999999999946,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 37323,
+                            "value" : -42.8571428572432,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.89271929824562,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : 1.45741666666666,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 1.82177083333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 2.00000025025953,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 1.40396354166668,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 30104,
+                            "value" : 2.25395442708336,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 37323,
+                            "value" : 1.25750000000002,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "time" : 34,
+                            "value" : 1.66583333333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 1921,
+                            "value" : 1.59016666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 5046,
+                            "value" : 1.29908333333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 6708,
+                            "value" : 1.45741666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7020,
+                            "value" : 1.82177083333334,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7539,
+                            "value" : 2.27721354166667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7702,
+                            "value" : 1.33266666666667,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 7867,
+                            "value" : 1.89271929824562,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 11356,
+                            "value" : 1.45741666666667,
+                            "duration" : 24
+                          },
+                          {
+                            "time" : 11401,
+                            "value" : 1.82177083333333,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 17493,
+                            "value" : 2.00000010240798,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 18880,
+                            "value" : 1.40396354166669,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 30104,
+                            "value" : 2.25395442708337,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 37323,
+                            "value" : 1.25750000000002,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "time" : 37323,
+                            "value" : 1.0,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 37623,
+                            "value" : 0.0,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "time" : 3127,
+                            "value" : 1.0,
+                            "duration" : 30
+                          }
+                        ]
+                      }
+                    },
+                    "medias" : [
+                        {
+                          "id" : 11,
+                          "_type" : "ScreenVMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 12-08-20"
+                          },
+                          "parameters" : {
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 37671,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 37671,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : "",
+                            "clipSpeedAttribute" : false,
+                            "default-cursor-size" : 1.0,
+                            "default-scale0" : 1.0,
+                            "default-scale1" : 1.0,
+                            "default-translation0" : 0.0,
+                            "default-translation1" : 0.0
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 12,
+                          "_type" : "ScreenIMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 12-08-20"
+                          },
+                          "parameters" : {
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 37671,
+                          "duration" : 108030,
+                          "mediaStart" : 37670,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "WinSubProjectDisplayName" : ""
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+                        {
+                          "effectName" : "CursorHilight",
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "blur" : {
+                              "type" : "double",
+                              "defaultValue" : 0.1,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 0.75,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              },
+                              "keyframes" : [
+                                {
+                                  "time" : 37323,
+                                  "value" : 0.175,
+                                  "duration" : 30
+                                }
+                              ]
+                            },
+                            "color-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-green" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-red" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "radius" : {
+                              "type" : "double",
+                              "defaultValue" : 50.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            }
+                          }
+                        }
+                    ],
+                    "start" : 30095,
+                    "duration" : 924,
+                    "mediaStart" : 36729,
+                    "mediaDuration" : 924,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-opacity" : 1.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "range" : [ 34, 30]
+                        },
+                        {
+                          "range" : [ 1921, 30]
+                        },
+                        {
+                          "range" : [ 3127, 30]
+                        },
+                        {
+                          "range" : [ 5046, 30]
+                        },
+                        {
+                          "range" : [ 6708, 30]
+                        },
+                        {
+                          "range" : [ 7020, 30]
+                        },
+                        {
+                          "range" : [ 7539, 30]
+                        },
+                        {
+                          "range" : [ 7702, 30]
+                        },
+                        {
+                          "range" : [ 7867, 30]
+                        },
+                        {
+                          "range" : [ 11356, 24]
+                        },
+                        {
+                          "range" : [ 11401, 30]
+                        },
+                        {
+                          "range" : [ 17493, 30]
+                        },
+                        {
+                          "range" : [ 18880, 30]
+                        },
+                        {
+                          "range" : [ 30104, 30]
+                        },
+                        {
+                          "range" : [ 37323, 30]
+                        },
+                        {
+                          "range" : [ 37623, 30]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 13,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : -18,
+                    "attributes" : {
+                      "ident" : "Part-01"
+                    },
+                    "parameters" : {
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.359955005624297,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.359955005624297,
+                        "interp" : "eioe"
+                      },
+                      "opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 0.075,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : -18,
+                            "value" : 1.0,
+                            "duration" : 30
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 31019,
+                    "duration" : 534,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-opacity" : 1.0,
+                      "default-scale0" : 0.359955005624297,
+                      "default-scale1" : 0.359955005624297
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "range" : [ -18, 30]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 14,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "part 1 recording chatbot tut",
+                      "sampleRate" : 48000,
+                      "bitDepth" : 0,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+                        {
+                          "effectName" : "NoiseReduction",
+                          "category" : "categoryAudioEffects",
+                          "parameters" : {
+                            "denoiserAmount" : 41.2,
+                            "denoiserThreshold" : 9.0,
+                            "noiseProfile" : "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",
+                            "noiseTrainingType" : "default"
+                          }
+                        }
+                    ],
+                    "start" : 0,
+                    "duration" : 8777,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 8777,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "part 1 recording chatbot tut",
+                      "sampleRate" : 48000,
+                      "bitDepth" : 0,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+                        {
+                          "effectName" : "NoiseReduction",
+                          "category" : "categoryAudioEffects",
+                          "parameters" : {
+                            "denoiserAmount" : 41.2,
+                            "denoiserThreshold" : 9.0,
+                            "noiseProfile" : "4f9fQjRySkIREiFB0h5zQ1H8t0MmLj1DbltFRELjlEQFyXJE5xIjRPzn+0OKL7NDizGfQ/dXjUMc\r\nWpBDSTh/Q0wuTUNUCjRDyHEMQ2eG50LfoL5CrAvFQpCHykLBR6BCYyCuQl9hjELkFVZCdXQzQkq5\r\nSEIymkdCAig3QgaMHEK+Yw5CCp8CQu7wskG4yLhBmtq7QVKRr0Gl6atBVZqaQTgfjkH370dBFn86\r\nQYuNE0H8WCFBjgIBQcLA10DcA7NA/PSTQHV1gEC68ERAs+BGQEsBMEDCvR9AOj4KQMTpvT/lzqo/\r\nXho5P2qSUz8Z7xA/9BMIP5wxrz7UKaw+N/mLPj0pij5Z35I+MzqMPggD1D4o6+Q+u9IJP5cyCz+a\r\n4cY+gYAAP0v4rT6UVQY/fZXbPtjj4j5Hm9A+Zt+/PpXmpj55NZ0+CuvIPgCcsz59/uE+UoLZPvy/\r\nuD4BVtg+dh1vPtHTqD4ONVY+Ev+LPs/HhD5wHk0+dKxTPqSPVz7i5UE+JbknPuCXaz4J4ms+hPlR\r\nPl6Daz5ZhxM+KZJePqCx8j1+uyo+H+oZPrJFED4o6AY+SBXBPQwL2j2HAdI9yJrZPSQ0vT2wv9c9\r\nnrYIPrY5wT1J/hw+abOtPSA77D1Eu5U90RevPXXRoT1Yy109bU5LPQZTUz3L2U89vuo2PU2vlT0n\r\nhYs9T1pzPeFi0D02Ynw9cv7GPTeSWT15upI9OlZlPdtnZT1rh1s9BuM9PbW1Pz1dN4M9pE2CPWh7\r\njT1ZC5M9Bii0PaNhaD2szKk9alc5Pcjahj3RilA9pitvPWSHWT1y7D891I8/PX9qVT3kFks91GRB\r\nPThHbj0cNXQ9v8cyPbhSjj0lQjI9VbmDPYYVQT1Zq3I9hAJRPXWeRT3roDs98WIoPX4GJD3Mhyw9\r\n2AdGPTGgNz01R0c9hz+IPaspET223+I8g7vePGtP/DzOmXY8gzF4PJINKzzNy+w7uDrxO+SSNjzs\r\nXJk8+FslPE9c3zxMVVk9OIsXPX6nVz2uCSw9zoREPT92Fj3lbAU9PvLePHYs0Dzvl8Y8cQ7ZPFBw\r\n0Txcbvw81+L+POm98Twghrg8DE4yPe8F0jzFK+887cS7PJsdljw0yz08S5IwPFS4FTz3fio8PVNM\r\nPN2YejwRfWs8IpNxPEzn2ztLwH8829T6O+t6ZTynwEU8CNATPPHD2zujFqw7kkJJO2DLIjtYLaA7\r\n5NKkO9EJwztvjdg7sH+QO8xDujusYYQ6MgbQO/nMLzt4ZuI7WNCpO92HhTuL/fY6ThOxOhH1rjoH\r\nmYs6lciROqFs2TqP7hU7telFO3BTKzvkZcA7wu5qOl012jsa2Ug7Ph6OO4qYPjtCZrg6sWpeOtT0\r\nYjoi9pI6BEPrOnkpBDsIXIs7vdcKOz7coDuaR7Q6rHaYO+4Q6DoYuUU7rkIRO+6+pzpnpVA6fcVH\r\nOnrmVTrEsIk61hQMOy+aJzt8udA6qFtnOxkFQTreb3k7pJhkOuL1XDuDggA7QDsAO8We0TpgoKc6\r\ngWCJOmvUSjrs+fQ6A0YxO0QsBTsvLmE7ekWxOpe6ZTv27146NsR+O1vauDq9mxA7/dEoO1aitjou\r\nr7c6ShX0Ou4oETqg8fY6MyymOvxEzzoz0oA6rRYyO4gpWDopCUk7FA6QOvDWODuqTN86R7PiOrLS\r\ngDpuD3c6J6GkOjR7mjq1DBs7uTFSOxrMKTu7V6Y7dP4gO/aNsTudyiE7Cp6LOxxLODtD7hI7MUnC\r\nOuqIBzvSTK46EmsKO1AvTDsaPWI77HmCO5mtkDshJtQ6FfKOOwCczTqUouM78Q2oO1+3TTtZrB87\r\noKpDOzIRGztJYwY7j10kO/LvaTvSpK875NS5O7emGjsi+bI7GIXYOvkhhTs8tUo7KHmYO/R+TDsI\r\nFso67NrYOcYtcznQRdg527GVOcipIDn7Kgo6mAAcOeEiVjrojCI5SX+vOpSDLjpMBtM68IwwOxJb\r\nRDvS7Sg7AV9UO8VtXDvkW2k7Jr1yOw7wuDuURUY7+UjaO+RYWztS4rQ76TxxO8p2aTtfHy475dsa\r\nO6CkMTuMez87d8h7O5higjuTwFQ76MayO6eCJDvZy8g7ArpIOxqVljuwLnM7K/koOw1oBjuKQsg6\r\niS3EOj7D2DpCgyA7dDQyO7GT9jq/JUE7fkhAOijPMzu6lKI6iCsRO2sB0zqmsow6fUIXOkoAmDmG\r\n+oA5s8m9Ocb9Bzp6yDc6nOhcOlbcfzp27545FKWVOveBxziWPVU6i7mSOeeaHjpM8b054hzSOFxv\r\nrDkNj7g4jA6xORuH2zhc4ZI5XTPXOYhEQzl7gU06kIS+OLr0UTqzqq04NFQ4Otoz8jmg0KM55NmV\r\nORDSADnwu685kzxoOdhXzTk7cQw66kLgOecuXzpmzgo5q6+AOpM83zhM6VQ6siyLObsSzTkosYg5\r\nymjIOMypozlEoKM44hKhOUbtizlsBNs5owoROhUG7zi3VWU6zArVONiydDp2sT85XpEgOuwx6jnY\r\nw5I5YP2ROSue1zi/jow58NXWOHyelzn54Z050KefOabqFjpLc904v2J0OoTWIDlc5dE5LJwZOfe1\r\nejnmxlo52kilOP9NdznnvMQ4gGZrOX2WyTj+XGs59gRyOdWqUzkFiks6o26POJLUezrUu3A5roJX\r\nOqSWGDoRIA06iomyORHZpzmXSY052oC2ORKEITpYyUE6qrBHOrvsZTotr3I5JlG9OsYu6DkAOcE6\r\n2dCIOrq+bjosOww6+yyhOQJvqznkGu05mMcuOi7imjpa/qI6f8e+OrCVBzorD886/HP3OYXf8Dqa\r\nWpE6+uWyOl0kijro2ic6jBMeOvd1ADoBLDE66M1+OlJhtTo4rSE70gaaOp7hUTp5qPI4L4wfOvI/\r\nkDn2I604+LR0OZGyxDjAn4I55XVSOHyu4zlrDRw6LCUcOtK3KjuuowU7nRZaO8Co1joT9jg7ZS7S\r\nOp9xDTv+XQE729rdOs8eqDr5z6s60uTNOlFj6Dp1Rw07JiAuO1Bfxjreeng7DzP7OnIDWjv+IQc7\r\nY1YNO/BjAjuIAb068t+zOgsItTqZHNY6qXgNO2k16joBggw7P/mQOo5hKjviA5U6D0QbO5C/yTpj\r\nEK06hVBsOtBoIzrKDRs6gQgPOgKYdTp9WJQ6xLySOvxVzjoSKqs5/mmEOiqLbzmlmFg6p0SqOS6s\r\nKTp24eg5DqWCOc4qITkwQqM4pKofOQQ7AzlQqAg6ZDU3OoZpszgCkQg6YtNIOGYq8DluOJY4d29i\r\nOT+EeDk7z7Y4f7V7OdYQWThgfUk5ylJ/OHeKLjkvNZc5r31COTyRJzqgpcA4aU9QOtBVCjnmcSA6\r\ntcWBOZRFljkztGo5cGndOK6kYzmXD484FgpZOYu2BTnSjoE54ObTOZp+iTiYpSE6oqeXOOi58TnM\r\nJyQ5zBmMOUdZNzm+vGs4cZlEOTVxeThMK1g5EVW+OMwfXjk/gRo5qjhOOQxhrTkmCKE4NJ4AOg6F\r\neTjvVeU5akHqODyBUjnWfTs5BFvKOFSlTDlkSbI4VJRIOQ0O4TjBLhM57lZUOaLGUjhU8Us5CwZZ\r\nOFhnUzmAbJE4CrVtOWlEEjnNDc04NJ42OUTQVTj5aVM5+VDKOBrvYzk6zos5SWOsOZFt/DlFezM5\r\nRX1bOuzSUDnhKF860DyROcRW8jniVI458LH9OHBxNTn0GjY5LQFxOUb7wzlS7hY6qZccOlVhKTnL\r\n+V86CDtYOS7Ihzohvxs6cKouOkYv2TliZpk5SJotOdFkFTl+SnQ5ydG7OW8vCjoKvjs6O3r9ObC/\r\nYzqh52A5JkCCOgwg6Tk4rZc6SqeGOsCkDjqVxy450M2WOJw57zjrtF05VtfaOA8C6DnUQU84prcV\r\nOjCOXDiqSzY6yPreOd4j3zlieKM6wMyNOltGUDpQR3I6tBVeOsLuYzqhtrE6c/PBOk0Orzrx0RU7\r\nymWOOlonIjsqP4466ePpOlic0ToIQ5o6OTySOlKOiDrSD6A6lSO8OuSA7DrvJgo7L6mwOuQLKzty\r\nwJ86kGkjOzDdwjrHQN06ZIOwOuxLhjp6BVA6jEcsOtmLVDpjHHY6/tWqOnUhszpGUx869RjHOnQp\r\nBjq6nrs60W6DOqRQjTqMujQ6Om6tOa0oLjne3lo5+iDBOBJcAjmCqlM5CjeFOe1qqjmL+so5jum/\r\nOGYsxDkqlHc4vcAEOtxvqjnOTjA5/U4sOR6vQzhxEAs55h6AOHIDODlG9WE52F29OC3pyDk6xUs4\r\nqwLZOWQTBjhMGrA5+bxZORY7RzmM4iY5lG4JOQnJJznqweA40aIYOSMtHzkfhIc5TXnEOTIaBTlG\r\n1A865i55OKSn2DlZeKg4VAViOf/AEDlByIY4fVQhOcD1XTiDyRI5ih8IOWPEYDmo0o050qhqOG0U\r\nxzm98yE4uPbaOedfMzgEz4s5iu09OPNEPDmYYu84i+x/OM94CTkkDyk46OAEOQuMGDgZOhc5Y/Yt\r\nOSDTnjhUAgQ6zAOQODiTqjmjrZk4K/4HOTJ42ziXbWE4rn7vOCVyIjiSv/o4DaZQOCSzATlj3AU5\r\nyUFTOBx+kTnWHTU418W7OUpfRzibMsc5P6AIOYx1nTm1tUY59cYMOYrD+jigeOs4sTLyOOURHznk\r\noLA5aROWOXQCkzhWIQ86t6WgOHI+JjoJSYE5L8/OOa3rqTm6zPQ4f3oMOVCXvzjWIQg5KQR/OanT\r\nozku/cU5xdh+OY8d/zmqyps4OcczOn2yTTnbng86nhapOa4OnjkEvn05yoPoOKVa3zgpYAg5iNdB\r\nOY63Ejon7T067h8cOjCzHzmknMo5YeVDOVw9JjlHsAg56lmaOIjR+Dh5ekQ4viYDOdZHpDkz2SA5\r\nb4VIOvzaoTqNMdU6N0VsOhDQzTpwqCA6Fha+OmuxgzpwDJc62AJzOhpUOTrNzkM6uOU0OpmnjTpq\r\nJKc61rCYOiYnAzvS3p46Y4gSO1SZnTpwVPU6LSTWOmu/tzrekZc6FH5oOnLxfDqGsoI6u9umOhKc\r\npToZXos6YmHcOvrUPzogEf86rMZtOpyjtzp8wJI6ERE6On40KDoG7vc5bU8IOh9nNTqHGFw6LHOP\r\nOnaACTqu5PU5r6duOadyGTopPJQ4mH8VOgr9Iznw2LI56e1uOei13Dgfeqk4npqgOIE5YzkQ9go6\r\nmoKsOYwsGTpJxpk4ZGAHOo68hziUwpM5nLmKOcQDLTnEQkU5evjIOMMfCTmaiBk4OVjWOGMeWDmz\r\njIE58E/yOXGHPDk+iiE6AUHFOBbLBTqg7fE4EAWUOeRqhjm8bSY5A906ObzxgTgZbyA5Kl6UOHQW\r\nSDnaX6Y5/3zAOA3GCDp76YQ4sszpOaTj3Ti8Nnc5VYFpOYaomTjJKTA5g30/OJ0HNjn8SQc4WkUM\r\nOfTGQzjK+xA5WtUAOaSDbjhuEGs5GLA7OOGThDnKIAg4iJQ7OWVNBDk5baI4UC4wOQAAgDhA+79A\r\nVlPqPqT9tj7fE5g/3NqgQKAdj0GYoq5A5fVRQU737j81h/5AEpK4PyHqLEADK59B2gXZQSHhUkFX\r\nY9RAJzUrQGpUwkCjX5w/oQAjQDb5ED/dx6A/RqgEPws8AT8cr50/EMZrQIQHPT/Dz+A+B1wEP0bX\r\nXT9RM58+qbd7Px1ftT4S8U9AyKmuPztR5T6KA28+iS7FPilDAD8mMMg/LZFvPhSLuD4ANlc+i0ke\r\nPg4/PT6nfIc+rP04PgJyID32His9bMmbPYA+Wz0NIrI9xEEDPZ47wDympl88y8CWPSwq1TuKcyI8\r\nUwdAPLQwPzwXlxY7jsSYOyhBpzvULEs75+GRO1Yo3ju3TsE7rxOUO9VlGzvxRI86P5l4OzSnTD2c\r\nZHU9c7cXPN7O+zuuxyI8Z309PP4oITwgByc8TjHsO5Y9YDsUkGY7XAWYOz5K5ToSQq864sFWO9eU\r\nGDqaNDw7LG77Ov3lFjtCKOk6tsmrOuPAFTv1arM7FxAKOwO16zvAVZE7eqiZO9xsDzt8V9A73lng\r\nOjbBvztOpH07MptmOkcDTDogiLw6TeCWOgWR4joBJrY6wrJIOmwz9jrqI5A6JAhDOvVx8DqVqpc6\r\nEWV5OdxHQDrkDKs6lH1JOiXFqTonEzw7mf6vOtT8Nzo6fBw6wDqOOgzlfDrhSmg6eK4SO9V2DTpn\r\n+Ao6euJcO/7wwTofqpQ6TJcpO3o0ITrbvTg6cB6hOiGRHjtG2jk7+KnyOqwWZDoNrGc7ttNMOqD/\r\nsjq2INU6LvcHO7/VNDqDOiI7WQfQOqAlwTrdiSA6LwSdOhCUoDp2tIw7RJcUO5BwYTsIm746psaY\r\nOTfi4TkbWY46of/fOtefFDuKuS85gAE/O4Mo/jsjp0k7jYdhOlgpWjrSaYA6ijjFOoL67DoYQAc6\r\nJ0wNOxzb8zpTaTc6MMkQOuzoCzuGFSo74siROp579jqIIBg7fDCXOq+ZOzqSEu07VBOsOjSfnTrk\r\nf3E6hjF2OzqxjjldjTE68fnDObRJJzooCi46ZygnOtrQXjpcqOc5IL43Ov6B8Tqi5j06F5dqOYwx\r\nKDobpn46y6OkOjEyADrukeQ63mt3OqKk/zlx+Mk5nGs9OlVnmTrlctw6zxXaOox7njt8r6Y64COW\r\nOgO42zp8NRM75IChOtk6eTsK+Wc7JPApO13UCju2rxs77lGCOwrnrjvA5YQ7+Ck+OzMLEDuz8o07\r\nrIdsO1QNcDpbUEg7jMkuO1D/XzsCI2Y6cg0OOxxUWTqZj6o6GzGdOhcU3znCnMc6dKYvOk+oBToM\r\ndzU7I/12O171NDsCjH47EDUpO3lwtTp6rGU6POC0OTEDpDoH3kY63lWtOWTUvjq+Z147+PWuOlin\r\nHTr5Zr45bpqHOpq1VznMVtM6Uz08Os7jwzqob6U6KqdqOlroDjoGJh06HDILO3BaJzukzY87Esjj\r\nOpIScjvbwzo8/b11O9b/tjul7hU8QRuDO3xr6Dvr+6c7zARSPO35nDsrkCE85qaYPKCaGjyY38c7\r\noCO0O3E2LDuOgog78DfLO2D0KDzyeIY8B2GtPCt4DzxWq9M70/3XPJKvBj2EFh88zmeuPLMBnjvb\r\nqzg7Xj1tPHrYzTprUM47jDzrO6eKJjvyoaI8lw4BPAJF4Dw7qVk8XpP6O5HNaDyLcFw8gLezPLUi\r\nxzzzBxM9lNeQPPsc8Dt1Sn88vjoZPbCidTtnxFU8t5CEPbtIEzxDMW07rz82PCwNHz3BZAY8blXr\r\nPPxYhjxeXJk8RoItPDi1mTyo3Xk8IQCfO4MZuTzJ16Q8cCyRPKKDADwsqkQ88m8VPQry3TvtMFA8\r\n8tOWPIXDmzzdQ2k8qJ1tO2Q/vDsScxc7tb0kPWpeujyvLi089NqxPNeWuTsbEok77erhPKgh3zvV\r\ndEM8mOghPAbcdDvUP7I7Hhs2O2I3kTsyeo87SXNoO6MUeDsp4UI6tzO8OiJnIjupiNk5L2QbOgXx\r\n7jgYEsw5FgrXOUwJgTkaCxE64kiDOeBknjne1H051kXWOVECnzjy1UY5pjDOOFfMtzgv5AY57eKg\r\nOa0OwjjqUUM59AhEODp/UjnITOU3tmYEOdy9GjmcADI51jjjOJm8XDnkbVg57zkiOcJSwTh6UvE4\r\nUGqVOAxFWTjwzvM4djmMOeI0GDlOQDI5/DcvOBSDijlDTeU4JnQCOU+1FjmeT8E4PCyFOQPeQjkY\r\nocY4tUhoNwJ9GTjHwoE4Xeb2OB/Q7zgWX7k42KxtOMT1hTg3RFs4RftJOI3AjzhUkBM5lF/1OEfR\r\nXDjURYY5hfhPOdbjUDgioqU4NfShON+Rqjgmwo848yJqOCXBTzjp6t04asW4OHYfxDiC1Lw4GNM6\r\nOQHDdTlIhaA4SM94OP7ZuTfalUU5yLpKOFjU6Df7id045qeCOcyY0DcMg2o5iOQROcgaLDnCib84\r\nuUZYOaEyxTgA0rM4/JgUOe5FCDmUIi05UtNaOQahoDm40H85oGRZOHFyljlOEDA4ygLdOMop8Dip\r\njc85wb6NObiJjzkiszY5qoUQOaccMjkKUA06dkodORXRijmu3AM5bsOXOPDKnDkWEXg5ZGUlOabw\r\n+ji6nbU4DsucOf+lajnsf9s579m8OWiq+TgPr6E5JxKAOeDszDlCqKw51RU8OpK7vjkULUk57xnD\r\nOY8ImjlYyng4nHZBOaqAajokm3E5WnbJOF5oiTmUfE46WicYOSXTDDp7hKw53F7FOYAyoDkaSJ85\r\nhQoROo413TiuMG05L0hBOvYuhTn45Q86EWYvOdRwiTrWbtg5euG0OEaWmDkwQiw5KvtoOTY+iDkI\r\ny2M5y6u+OJKLYzoQu6I5hUnWORiZ+jmVtrg5X10qOTIXDTo79js5eLgFOikF6DlV2oA4CGuLOR6q\r\n3zhDwj45FP3EOKq/lzn/FiQ5kvoqOUbW5zi/nVg5CME/OMfZZDjdYAQ4UQ/hN6EOfjgex9Y3FARy\r\nOXm95ThvrAo4WgKqOEx8hjhUv9A3fIFIOLWNiDhbwZY4gnt2OLLWJjhhrbo4BlnmOEcsEjimp8I4\r\nSooFOCEyrTgSZjw4OBqJOCKJFTglyUM5ApWUOcbojzghXfE3TplQOBoFNzjPzQQ4sinaOMNnNjiy\r\nRHk4enARORYo9DiAwL04hFkOOO4CLjg2k144IsvROIRvvjhhCWQ4qsOIOEqNOjjUL7w4RBNrN+3X\r\nsDcS/4A4bjtPOFaMDDgxLmI4sn0bOKy+LzjgJm049l+kOM231zg2lLo4Q+ghOVRlwDgqacU40iih\r\nOIa1mDhO7qM4+SrINwzUGzkZVIU4jnKlONFHKTja86k4CCmaODBwvjhT63M3XerDOIe4Azg8f5I4\r\nFiyYOONniThrHkk4gfRrOBdTsTgQ0VE4hRG7N32R5zgl9tk4U8+/OKIpxjhMhqM4ho5jOCU6sDj8\r\nRCs4KG/pOERO7zjwgMY3zRSFOF9UzjfS1YU4i0EMObxohzj9Kzo4txS7OAgGPjhz/As5pVnhONqS\r\nnDgd+Ao4aMdROdNMiDj7Zo44NLUPOHDRXzjvcqY4D1lqOI+Yajj9btQ3yvRCOCOJZDjG/cw4vvSL\r\nOFdxDTkFtWk4EeSKOGGugThoCkk5Oq6dOGbgqTlRDtE45a5OOBq0qTjwR5E4voxaOGQLtjgGCnY5\r\nyOtsOUR7vTj2YDc5hBhaOTfsAznWIBs5K9AjOaWeFjlpoDk5/6XkOI5FUzmZwns40uEkOYp6ujll\r\nf9w4OofZOC8IdDhZkqo5ZcMiOeollzj2GaA48OjtOIvKjDmeO8w4NDjzOP2l9Tf/nkc5ZgwaOUaw\r\ncjlt+Cw5WtkeOYxEPjlxExI5Qi/JOLyQ7zjdCg05IBAOOaCsvjjzgts4BN4LOFJPmzgItq03pd3S\r\nOIiD+jcN7284meukOJGPgjhC1Q44+L08OB6ScjjSucA3BN/mNx476TgbLxU5SvvDN2ow0jcXy4c4\r\nHrnQN8IQTDgIlBE4ejIDOJGHAzi4HMc48eRKONV7gzc9Zbk4q7+IOJg/ejhaEIs4DKLRN4AlQDi8\r\n/OE3UTyVOE2Y7DfbLcQ4B4gIOH3gITjzk0k4a3IeN29PnjjHirI4RE9uOODEsDgdzyU419ihNxDj\r\nFzhszAE4leYjOBdDJzieyJY4WhhNOHF4KzhOREc4UdLMNuynqDgTFaY3ViLbN2IqgTgMww044+iD\r\nN0j2kziTctc3ll2FOPdYfDhTkNM4DpOuNzQTzzh4MHM4v5wgONmqXzgHAB04KOC1OKUL3TbhCtI3\r\n8u/IOBM7gDdOzfM3QJdaOPR0jzjsdsM3EZ77OCuUVzjoSdQ4on4COIhtVzjAqAc4EnlnNzQjKDjg\r\nW6g4OESLOE7TxzjIMbA3M67gOAgpHzgYwiM4FsCQOCyMbDi/nKU3mNMgNwe/IDj7Gpw4CGqTOIq+\r\nLDnpeCU4cjpYOKvP0DekbPY3b2vuNzvmUjjQtYU4lMNcOFMKXjimUXc4HNdpODRl7DgkgPU33eBe\r\nN4Qftzd8VxA4AFfXN6ZxljduDiY4IsNEOLnESjgbYmg4QuSlOMlm3DeB0qo4LpY4OW4lAzj3a4I4\r\nG0YvOLGVbjgIXB85ZxYOOXL+sjdJq1k4hMFBOPLRszcQteM3LO7qOIr5DjmGWpE4NsyYOJMFZjg0\r\nELE46EYJOVB99Di5ds44umzdOAwQSzhgNPk4lvsUOCH/qjjKnj853kWMOHnHETj6ql84k+IhObuh\r\n1zgM0643g2HhNxjd0jj/0yQ4VZdsOHlICDlfImI4F6DfOMloiDhJNhM5lJarOMOkVjjYtAg5oCXG\r\nOAacGjiCY0o4yvLnN6A/QjhM5+M3ShukOLYCJzffZQU4O97INyfMUzhFXOU3btoBOMLRcjjqtmI4\r\nNTdGOEKuBDd9nh04EkP3N0RVPTjADSA4zUqHOGaOrTgtOsg4X5RUN6iUJjc/wL83cLwdOPEaHzi/\r\nsAE4oRN+N9EHyTecgCQ4S2UbOAwAhTgzdgk5lYA2OJMd3DicvWY4cufdNz4K/TdmX2c46mp3ONrr\r\ntjfZdzM4wCj/N0mvizfwdgQ5ez7ONxZz7Tj0pME4gnQNOAoFVzeIynE3QRpYOLrXkzhcDgo4a3Nd\r\nOBSlKzjKAIY36usZOFStaTh8lyg4qeVIOOK8qDf+/1Y4i6vsNx7E+Ta4RJo3Ez9IN7+SVzhkFkA4\r\nNfQNOTkrLDgG2i84m1ygOObeRDhKcEo41r/HN22woDhRwXw4FjFqN8OktziN1TE4AiStN7jKlThO\r\ndvs4MgomOOpaszf7qFY4gX8LORPHYjjKMxs4UEhmOEqgwjdZJ5s4JF4COIRpyDiCEPs37eskOd5O\r\nlTgRysM4iuAPOOJfITnqWz84hOynOPiD2TeedSk4FveFOAqIjzjUF5o4dRAgOOaT+zfNRr04sc41\r\nOM75IjheGRQ4cSNXOPhUMzh7alY4FHkZONJvdjgzDF84d9sGOLbVVjdqZmI4AJBZNw==",
+                            "noiseTrainingType" : "default"
+                          }
+                        }
+                    ],
+                    "start" : 8777,
+                    "duration" : 13705,
+                    "mediaStart" : 8912,
+                    "mediaDuration" : 13705,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "part 1 recording chatbot tut",
+                      "sampleRate" : 48000,
+                      "bitDepth" : 0,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "parameters" : {
+                      "volume" : 0.979020979020979
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "NoiseReduction",
+                          "category" : "categoryAudioEffects",
+                          "parameters" : {
+                            "denoiserAmount" : 41.2,
+                            "denoiserThreshold" : 9.0,
+                            "noiseProfile" : "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",
+                            "noiseTrainingType" : "default"
+                          }
+                        }
+                    ],
+                    "start" : 23881,
+                    "duration" : 4795,
+                    "mediaStart" : 22902,
+                    "mediaDuration" : 4795,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "part 1 recording chatbot tut",
+                      "sampleRate" : 48000,
+                      "bitDepth" : 0,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+                        {
+                          "effectName" : "NoiseReduction",
+                          "category" : "categoryAudioEffects",
+                          "parameters" : {
+                            "denoiserAmount" : 41.2,
+                            "denoiserThreshold" : 9.0,
+                            "noiseProfile" : "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",
+                            "noiseTrainingType" : "default"
+                          }
+                        }
+                    ],
+                    "start" : 28676,
+                    "duration" : 1419,
+                    "mediaStart" : 27697,
+                    "mediaDuration" : 1419,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 18,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "part 1 recording chatbot tut",
+                      "sampleRate" : 48000,
+                      "bitDepth" : 0,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+                        {
+                          "effectName" : "NoiseReduction",
+                          "category" : "categoryAudioEffects",
+                          "parameters" : {
+                            "denoiserAmount" : 41.2,
+                            "denoiserThreshold" : 9.0,
+                            "noiseProfile" : "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",
+                            "noiseTrainingType" : "default"
+                          }
+                        }
+                    ],
+                    "start" : 30095,
+                    "duration" : 924,
+                    "mediaStart" : 30201,
+                    "mediaDuration" : 924,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 19,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Narration_Part1 1",
+                      "sampleRate" : 44100,
+                      "bitDepth" : 16,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+                        {
+                          "effectName" : "NoiseReduction",
+                          "category" : "categoryAudioEffects",
+                          "parameters" : {
+                            "denoiserAmount" : 20.0,
+                            "denoiserThreshold" : 0.0,
+                            "noiseProfile" : "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",
+                            "noiseTrainingType" : "default"
+                          }
+                        }
+                    ],
+                    "start" : 31037,
+                    "duration" : 516,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 516,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 20,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "Part-01"
+                    },
+                    "parameters" : {
+                      "scale0" : 0.359955005624297,
+                      "scale1" : 0.359955005624297
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 836,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                  {
+                    "id" : 21,
+                    "_type" : "ScreenVMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 12-08-20"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 14718,
+                            "value" : -465.398147758162,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 24161,
+                            "value" : -236.826719186706,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 14718,
+                            "value" : -312.772030807877,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 24161,
+                            "value" : -355.629173664986,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 14718,
+                            "value" : 1.48478973724785,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 24161,
+                            "value" : 1.48478973724785,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "time" : 14718,
+                            "value" : 1.48478962748363,
+                            "duration" : 30
+                          },
+                          {
+                            "time" : 24161,
+                            "value" : 1.48478962748363,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : 14718,
+                            "value" : 1407.41518748123,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : 14718,
+                            "value" : 169.347035247157,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : 14718,
+                            "value" : 438.918264735116,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "opacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr",
+                        "keyframes" : [
+                          {
+                            "time" : 24161,
+                            "value" : 0.0,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 12979,
+                    "duration" : 9473,
+                    "mediaStart" : 14718,
+                    "mediaDuration" : 9473,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "WinSubProjectDisplayName" : "",
+                      "clipSpeedAttribute" : false,
+                      "default-opacity" : 1.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "range" : [ 14718, 30]
+                        },
+                        {
+                          "range" : [ 24161, 30]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\Dishant\\AppData\\Local\\TechSmith\\Camtasia Studio\\9.0\\Auto-Saves\\Part12c7ba83.autosave.tscproj",
+    "CanvasZoom" : 35,
+    "Date" : "2020-12-08 04:55:32 PM",
+    "Fit" : 0,
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "Part1",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
