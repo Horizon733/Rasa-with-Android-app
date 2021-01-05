@@ -18,6 +18,6 @@ class MainActivity : AppCompatActivity() {
         }
         val msg = mainActivity.messageBox.text
         messageList = ArrayList<MessageClass>()
-
+ 
     }
 }
