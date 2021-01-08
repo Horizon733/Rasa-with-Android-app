@@ -4,31 +4,31 @@ import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.FrameLayout
-import android.widget.LinearLayout
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
 class MessageAdapter(var context:Context,var messageList:MutableList<MessageClass>):RecyclerView.Adapter<MessageAdapter.MessageViewHolder>() {
-
+    private val USER_LAYOT = 0
+    private val BOT_LAYOUT = 1
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MessageViewHolder {
-        val view = LayoutInflater.from(context).inflate(R.layout.message_item_list,parent,false)
-        return MessageViewHolder(view)
+        if(viewType.equals(USER_LAYOT)) {
+            val view =
+                LayoutInflater.from(context).inflate(R.layout.user_message_box, parent, false)
+            return MessageViewHolder(view)
+        }else{
+            val view =
+                LayoutInflater.from(context).inflate(R.layout.bot_message_box, parent, false)
+            return MessageViewHolder(view)
+        }
     }
 
     override fun onBindViewHolder(holder: MessageViewHolder, position: Int) {
-        val message = messageList[position]
-        if(message.sender.equals(0)){
-            val user_message = getUserLayout()
-            holder.linear_layout.addView(user_message)
-            val message_et = user_message?.findViewById<TextView>(R.id.message_tv_user)
-            message_et?.setText(message.message)
+        val currentMessage = messageList[position]
+        if(currentMessage.sender.equals(0)){
+            holder.message_view.setText(currentMessage.message)
 
-        }else if(message.sender.equals(1)){
-            val bot_message = getBotLayout()
-            holder.linear_layout.addView(bot_message)
-            val message_et = bot_message?.findViewById<TextView>(R.id.message_tv_user)
-            message_et?.setText(message.message)
+        }else if(currentMessage.sender.equals(1)){
+            holder.message_view.setText(currentMessage.message)
         }
     }
 
@@ -36,17 +36,18 @@ class MessageAdapter(var context:Context,var messageList:MutableList<MessageClas
         return messageList.size
     }
 
-    fun getUserLayout(): FrameLayout? {
-        val inflater: LayoutInflater = LayoutInflater.from(context)
-        return inflater.inflate(R.layout.user_message_box, null) as FrameLayout?
-    }
-
-    fun getBotLayout(): FrameLayout? {
-        val inflater: LayoutInflater = LayoutInflater.from(context)
-        return inflater.inflate(R.layout.bot_message_box, null) as FrameLayout?
+    override fun getItemViewType(position: Int): Int {
+        super.getItemViewType(position)
+        val view = messageList[position]
+        if(view.sender.equals(USER_LAYOT)){
+            return USER_LAYOT
+        }else{
+            return BOT_LAYOUT
+        }
     }
 
     class MessageViewHolder(view:View): RecyclerView.ViewHolder(view){
-        val linear_layout = view.findViewById<LinearLayout>(R.id.linear_layout)
+        val message_view = view.findViewById<TextView>(R.id.message_tv)
+        val time_view = view.findViewById<TextView>(R.id.time_tv)
     }
 }
