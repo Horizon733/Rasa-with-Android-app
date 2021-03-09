@@ -56,7 +56,7 @@ class MainActivity : AppCompatActivity() {
                 call: Call<ArrayList<BotResponse>>,
                 response: Response<ArrayList<BotResponse>>
             ) {
-                if(response.body() != null || response.body()!!.size != 0){
+                if(response.body() != null || response.body()?.size != 0){
                     val message = response.body()!![0]
                     messageList.add(MessageClass(message.text,BOT))
                     adapter.notifyDataSetChanged()
